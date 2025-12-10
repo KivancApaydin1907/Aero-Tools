@@ -40,10 +40,10 @@ Since this equation cannot be solved algebraically for $G$, this tool implements
 
 ```bash
 # Compile the program
-g++ main.cpp -o InflationCalculator
+g++ main.cpp -o InflationLayers
 
 # Run the executable
-./InflationCalculator
+./InflationLayers
 ```
 
 ## ✍️ Author
